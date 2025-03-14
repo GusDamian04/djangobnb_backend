@@ -1,6 +1,6 @@
 # Djangobnb_backend
 ## Descripción
-Este es un prototipo de la pagina web de Airbnb, lo cual se divide en dos partes, FrontEnd y Backend. Este repositorio cuenta con la parte de Backend.
+Este es un prototipo de la pagina web de Airbnb, lo cual se divide en dos partes, Frontend y Backend. Este repositorio cuenta con la parte de Backend.
 - [Página oficial de AirBnb](https://www.airbnb.mx/)
 
 ## Cómo funciona
